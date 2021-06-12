@@ -1,0 +1,131 @@
+body{
+    background-color: #1D1E20;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav{
+    position: fixed;
+}
+
+nav img{
+    position: absolute;
+
+    height: 107.54609680175781px;
+    width: 124.38249206542969px;
+    left: 71px;
+    top: 58px;
+    border-radius: 0px;
+
+}
+
+.about{
+    position: absolute;
+    width: 80px;
+    height: 30px;
+    left: 1051px;
+    top: 72px;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    text-decoration: none;
+
+    color: #13F7D2;
+}
+
+.contact{
+    position: absolute;
+    height: 30px;
+    width: 103px;
+    left: 1278px;
+    top: 72px;
+    border-radius: nullpx;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    text-decoration: none;
+
+    color: #13F7D2;
+}
+
+main img{
+    position: absolute;
+    width: 500px;
+    height: 498px;
+    left: 132px;
+    top: 255px;
+}
+
+.texts h1{
+    position: absolute;
+    width: 242px;
+    height: 61px;
+    left: 701px;
+    top: 297px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 61px;
+
+    letter-spacing: 0.2em;
+
+    color: #13F7D2;
+}
+
+.texts h2{
+    position: absolute;
+    width: 580px;
+    height: 74px;
+    left: 699px;
+    top: 395px;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+
+    color: #FFFFFF;
+}
+
+.texts p{
+    position: absolute;
+    width: 662px;
+    height: 169px;
+    left: 694px;
+    top: 492px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+}
+
+.socials{
+    position: absolute;
+    width: 357px;
+    height: 60px;
+    left: 565px;
+    top: 885px;
+}
+
+footer{
+    position: absolute;
+    width: 410px;
+    height: 24px;
+    left: 560px;
+    top: 968px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
